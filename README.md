@@ -1,4 +1,5 @@
 ### Hi there 👋
+我是 Robert Chaw，一名前端开发工程师，正在努力朝全栈方向发展中。
 
 <!--
 **RobertChaw/RobertChaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
